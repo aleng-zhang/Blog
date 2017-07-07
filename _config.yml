@@ -3,13 +3,13 @@ title: 待定
 header-img: "img/green.jpg"
 tagline: "cn"
 description: "待定"  
-baseurl: ""
-url: ""
+baseurl: "https://aleng_zhang.github.io/Blog"
+url: "https://aleng_zhang.github.io/Blog"
 
 # About/contact
 owner: 
   name: "aleng_zhang"
-  email: aleng_zahng@outlook.com
+  email: aleng_zhang@outlook.com
   bio: "写就是写的报酬"
 
 # Build settings  
