@@ -1,6 +1,10 @@
 ---
-	layout: default
-	title: 你好，世界
+layout: post
+title: Ubuntu
+date: 2017-07-07
+categories: blog
+tags: [总结,知识管理]
+description: 
 ---
 
 [TOC]
