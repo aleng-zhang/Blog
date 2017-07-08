@@ -5,7 +5,7 @@ description: "个人简介"
 header-img: "img/green.jpg"
 ---
 
-![头像](https://github.com/aleng-zhang/aleng-zhang.github.io/blob/master/img/aleng.jpg)
+![头像](https://aleng-zhang.github.io/img/aleng.jpg)
 
 ### 昵称: aleng_zhang
 
