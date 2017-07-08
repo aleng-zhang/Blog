@@ -1,10 +1,16 @@
-* TOC
-{:toc}
+---
+layout: post
+title: Pyenv使用教程
+date: 2017-7-08
+categories: Blog
+tags: [教程]
+description: Pyenv教程
+---
 
 ### 安装:
 ~~~
 sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev xz-utils tk-dev
-curl -L https://raw.githubusercontent.com/pyenv/pyenv-installer/master/bin/pyenv-installer | bash
+sudo curl -L https://raw.githubusercontent.com/pyenv/pyenv-installer/master/bin/pyenv-installer | bash
 ~~~
 
 ### 升级:
