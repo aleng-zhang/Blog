@@ -2,9 +2,7 @@
 layout: post
 title: Pyenv使用教程
 date: 2017-7-08
-categories: Blog
 tags: [教程]
-description: Pyenv教程
 ---
 
 ### 安装:
@@ -78,4 +76,4 @@ $ pyenv shell pypy-2.2.1
 $ pyenv shell --unset
 ~~~
 
-[Pyenv](https://github.com/pyenv/pyenv, "Pyenv")
+[Pyenv](https://github.com/pyenv/pyenv "Pyenv")
