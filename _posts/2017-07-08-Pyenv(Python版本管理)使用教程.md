@@ -77,4 +77,4 @@ $ pyenv shell --unset
 ~~~
 
 ### 参考:
-[Pyenv](https://github.com/pyenv/pyenv "Pyenv")
++ [Pyenv](https://github.com/pyenv/pyenv "Pyenv")
