@@ -2,7 +2,7 @@
 layout: page
 title: "Archive"
 description: "时间机器"
-header-img: "img/orange.jpg"
+header-img: "img/zhihu.jpg"
 ---
 
 
