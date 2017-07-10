@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Archive"
-description: "时间机器"
-header-img: "img/zhihu.jpg"
+description: "Time Machine"
+header-img: "img/facebook.jpg"
 ---
 
 

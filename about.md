@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "个人简介"
-header-img: "img/green.jpg"
+header-img: "img/blue.jpg"
 ---
 
 ![头像](http://osrqgo6n4.bkt.clouddn.com/aleng.jpg)
