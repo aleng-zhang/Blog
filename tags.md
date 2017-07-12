@@ -33,7 +33,7 @@ header-img: "img/red.jpg"
 <script src="/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script> 
 <script language="javascript">
 $.fn.tagcloud.defaults = {
-    size: {start: 14, end: 18, unit: 'pt'},
+    size: {start: 0.9, end: 2, unit: 'pt'},
       color: {start: '#f8e0e6', end: '#ff3333'}
 };
 
