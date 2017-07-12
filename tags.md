@@ -29,7 +29,7 @@ header-img: "img/red.jpg"
 {% endfor %}
 </ul>
 
-<script src="/media/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
 <script src="/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script> 
 <script language="javascript">
 $.fn.tagcloud.defaults = {
