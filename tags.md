@@ -11,6 +11,8 @@ header-img: "img/red.jpg"
   {% endfor %}
 </div>
 
+---
+
 <ul id='tag_list'>
 {% for tag in site.tags %}
   <li class='tag_item' id='{{ tag[0] }}'>
