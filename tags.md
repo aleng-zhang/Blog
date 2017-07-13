@@ -2,7 +2,7 @@
 layout: page
 title: "Tags"
 description: "Portal" 
-header-img: "img/red.jpg" 
+header-img: "img/page-bg0.jpg" 
 ---
 
 <div id='tag_cloud'>

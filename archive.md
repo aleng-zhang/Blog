@@ -2,7 +2,7 @@
 layout: page
 title: "Archive"
 description: "Time Machine"
-header-img: "img/facebook.jpg"
+header-img: "img/page-bg6.jpg"
 ---
 
 

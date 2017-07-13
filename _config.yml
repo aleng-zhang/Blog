@@ -1,6 +1,6 @@
 # Site settings
 title: 书半生
-header-img: "img/zhihu.jpg"
+header-img: "img/page-bg8.jpg"
 tagline: "cn"
 description: ""  
 baseurl: ""
@@ -33,7 +33,7 @@ defaults:
     values:
       layout: "post"
       author: "aleng_zhang"
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/page-bg5.jpg" # We don't want posts without a header image, that whould mean white on white
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
 google_verify:
