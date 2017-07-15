@@ -17,4 +17,4 @@ header-img: "img/page-bg4.jpg"
 
 ### 邮箱: aleng_zhang@outlook.com
 
-### [项目地址](https://github.com/aleng-zhang/aleng-zhang.github.io)
+### 项目地址: [aleng-zhang/aleng-zhang.github.io](https://github.com/aleng-zhang/aleng-zhang.github.io)
