@@ -9,7 +9,7 @@
   height: 54px;
   display: block;
   background: url(/img/Back-Top_Arrow.png) no-repeat center center rgba(217,97,81,0.9);
-  background-color: #fff;
+  background-color: rgba(217,97,81,0.9);
   -webkit-border-radius: 7px;
   -moz-border-radius: 7px;
   border-radius: 7px;
