@@ -1,8 +1,5 @@
 $(document).ready(function() {
 
-    // hide #back-top first
-    $("#back-top").hide();
-
     // fade in #back-top
     $(function() {
         var pos = $(window).scrollTop();
