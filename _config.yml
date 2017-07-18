@@ -35,8 +35,8 @@ defaults:
       author: "aleng_zhang"
       header-img: "img/page-bg5.jpg" # We don't want posts without a header image, that whould mean white on white
 # Analytics and webmaster tools stuff goes here
-google_analytics: 
-google_verify:
+# google_analytics: 
+# google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
