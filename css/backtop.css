@@ -8,8 +8,8 @@
   width: 48px;
   height: 48px;
   display: block;
-  background: url(/img/Back-Top_Arrow.png) no-repeat center center rgba(217,97,81,0.9);
-  background-color: rgba(217,97,81,0.9);
+  background: url(/img/Back-Top_Arrow.png) no-repeat center center #fff;
+  background-color: #fff;
   -webkit-border-radius: 7px;
   -moz-border-radius: 7px;
   border-radius: 7px;
@@ -18,6 +18,6 @@
   transition: 1s;
 }
 #back-top a:hover {
-  background-color: #777;
+  background-color: #FF9409 ;
 }
 /*  Back Top Button  End */
