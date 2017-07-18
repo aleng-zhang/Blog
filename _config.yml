@@ -29,10 +29,11 @@ timezone: Asia/Shanghai
 
 # Defaults for posts
 defaults:
-  scope: 
-    path: ""
-    type: "posts"
-  values:
-    layout: "post"
-    author: "aleng_zhang"
-    header-img: "img/page-bg5.jpg" # We don't want posts without a header image, that whould mean white on white
+  -
+    scope: 
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "aleng_zhang"
+      header-img: "img/page-bg5.jpg" # We don't want posts without a header image, that whould mean white on white
