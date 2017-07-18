@@ -15,7 +15,7 @@ header-img: "img/page-bg6.jpg"
     {% endif %}
     <ul>
     	<li class="listing-item">
-   	 		<time datetime="{{ post.date | date:"%m-%d" }}">{{ post.date | date:"%m-%d" }}</time>
+   	 		<time datetime="{{ post.date | date:"%m-%d" }}">{{ post.date | date:"%b-%d" }}</time>
     		<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   		</li>
   	</ul>

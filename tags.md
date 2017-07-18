@@ -7,7 +7,7 @@ header-img: "img/page-bg0.jpg"
 
 <div id='tag_cloud'>
   {% for tag in site.tags %}
-    <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
+    <a href="#{{ tag[0] }}" title="{{ tag[0] }}"</a>
   {% endfor %}
 </div>
 
@@ -29,13 +29,3 @@ header-img: "img/page-bg0.jpg"
 </ul>
 
 <script src="/js/jquery.min.js" type="text/javascript" charset="utf-8"></script> 
-<script src="/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script> 
-<script language="javascript">
-$.fn.tagcloud.defaults = {
-    size: {start: 0.9, end: 2, unit: 'em'},
-      color: {start: '#e77471', end: '#f62817'}
-};
-$(function () {
-    $('#tag_cloud a').tagcloud();
-});
-</script>
