@@ -5,13 +5,14 @@ $(document).ready(function() {
 
     // fade in #back-top
     $(function() {
-        $(window).scroll(function() {
-            if ($(this).scrollTop() > 200) {
-                $('#back-top').fadeIn();
-            } else {
-                $('#back-top').fadeOut();
-            }
-        });
+        var pos = $(window).scrollTop();
+        console.log(pos);
+
+        if (pos >= 400) {
+            $('#back-top').fadeIn();
+        } else {
+            $('#back-top').fadeOut();
+        }
 
         // scroll body to 0px on click
         $('#back-top a').click(function() {
@@ -21,5 +22,4 @@ $(document).ready(function() {
             return false;
         });
     });
-
 });
