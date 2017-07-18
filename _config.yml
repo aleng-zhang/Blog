@@ -2,9 +2,12 @@
 title: 书半生
 header-img: "img/page-bg8.jpg"
 tagline: "cn"
-description: ""  
+description: ""
 baseurl: ""
 url: ""
+
+# meida account
+douban_username: 
 
 # About/contact
 owner: 
@@ -26,18 +29,10 @@ timezone: Asia/Shanghai
 
 # Defaults for posts
 defaults:
-  -
-    scope: 
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "aleng_zhang"
-      header-img: "img/page-bg5.jpg" # We don't want posts without a header image, that whould mean white on white
-# Analytics and webmaster tools stuff goes here
-# google_analytics: 
-# google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
-# Links to include in footer navigation
+  scope: 
+    path: ""
+    type: "posts"
+  values:
+    layout: "post"
+    author: "aleng_zhang"
+    header-img: "img/page-bg5.jpg" # We don't want posts without a header image, that whould mean white on white
