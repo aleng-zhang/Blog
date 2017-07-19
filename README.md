@@ -1,4 +1,4 @@
-fork from [cnfeat/blog.io](https://github.com/cnfeat/blog.io/)
+fork from [cnfeat/blog.io](https://github.com/cnfeat/blog.io/)(fork from [Azeril/azeril.github.io](https://github.com/Azeril/azeril.github.io))
 
 ## 图片来源
 
