@@ -39,7 +39,7 @@ header-img: "img/page-bg0.jpg"
     {% else %}
       {% assign color = 8 | minus: base %}
     {% endif %}
-    <a href="#{{ tag[0] }}" style="font-size: {{ size }}pt; color: #{{ color }}{{ color }}{{ color }};">    {{ tag[0] }}    </a>
+    <a href="#{{ tag[0] }}" style="font-size: {{ size }}pt; color: #{{ color }}{{ color }}{{ color }};">{{ tag[0] }}</a>
   {% endfor %}
 </div>
 
