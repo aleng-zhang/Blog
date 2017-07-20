@@ -1,4 +1,4 @@
-fork from [cnfeat/blog.io](https://github.com/cnfeat/blog.io/)(fork from [Azeril/azeril.github.io](https://github.com/Azeril/azeril.github.io))
+fork from [cnfeat/blog.io](https://github.com/cnfeat/blog.io/)
 
 ## 图片来源
 
@@ -7,7 +7,6 @@ fork from [cnfeat/blog.io](https://github.com/cnfeat/blog.io/)(fork from [Azeril
 - [page-bg2](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62512328)
 - [page-bg3](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=63134826)
 - [page-bg5](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=59921418)
-- [page-bg7](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=63093148)
 - [page-bg8](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=63435655)
 - [page-bg9](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=59171403)
 
