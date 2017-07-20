@@ -10,4 +10,4 @@ fork from [cnfeat/blog.io](https://github.com/cnfeat/blog.io/)
 - [page-bg8](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=63435655)
 - [page-bg9](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=59171403)
 
-- page-bg4 page-bg6 来源网络(其实就是来源忘了)
+- page-bg4 page-bg6 来源网络, ~~其实就是来源忘了~~
