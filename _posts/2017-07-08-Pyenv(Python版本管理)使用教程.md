@@ -46,7 +46,7 @@ $ pyenv version
 + `pyenv install -l` --列出所有可安装版本
 ~~~bash
 $ pyenv install -l
-Available versions: #太长用...隐去了一部分
+Available versions: #太长, 用...隐去了一部分
   2.1.3
   ...
   2.7.13
