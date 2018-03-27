@@ -42,7 +42,7 @@ tags: [备忘]
 
 ### 其他
 + [3DM 游戏运行库](http://dl.3dmgame.com/201707/110601.html)
-+ [驱动程序 | GeForce](http://www.geforce.cn/drivers)
++ [驱动程序 GeForce](http://www.geforce.cn/drivers)
 + [字幕组](http://www.zimuzu.tv/)
 + [迷你MP4](http://www.minimp4.com/)
 + [pixiv](https://www.pixiv.net/)
