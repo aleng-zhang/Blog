@@ -50,3 +50,5 @@ tags: [备忘]
 + [Greasy Fork](https://greasyfork.org/zh-CN)
 + [MSDN](https://msdn.itellyou.cn/)
 + [zd423](http://www.zdfans.com/)
++ [Genymotion](https://www.genymotion.com/fun-zone/)
++ [Vultr](https://www.vultr.com/)
