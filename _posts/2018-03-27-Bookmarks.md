@@ -40,12 +40,18 @@ tags: [备忘]
 + [Csgola](https://www.csgola.com/)
 + [CS:GO News](https://www.hltv.org/)
 + [Farmskins](http://farmskins.com/)
++ [CS.MONEY](https://cs.money/zh)
+
+### 视频网站
++ [动漫花园](https://share.dmhy.org/)
++ [嘀哩嘀哩](http://www.dilidili.wang/)
++ [字幕组](http://www.zimuzu.tv/)
++ [迷你MP4](http://www.minimp4.com/)
++ [哔哩哔哩](https://www.bilibili.com/)
 
 ### 其他
 + [3DM 游戏运行库](http://dl.3dmgame.com/201707/110601.html)
 + [驱动程序 GeForce](http://www.geforce.cn/drivers)
-+ [字幕组](http://www.zimuzu.tv/)
-+ [迷你MP4](http://www.minimp4.com/)
 + [pixiv](https://www.pixiv.net/)
 + [豆瓣](https://www.douban.com/)
 + [Greasy Fork](https://greasyfork.org/zh-CN)
