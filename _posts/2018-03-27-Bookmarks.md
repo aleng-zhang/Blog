@@ -11,7 +11,7 @@ tags: [备忘]
 ---
 ### 工具
 + [路过图床](https://imgchr.com/) 
-+ [waifu2x](http://waifu2x.udp.jp/)
++ [waifu2x](http://waifu2x.udp.jp/) ([备用](https://waifu2x.booru.pics/))
 + [国家企业信用信息公示系统](http://www.gsxt.gov.cn/corp-query-homepage.html)
 + [国家邮政局申诉网站](http://sswz.spb.gov.cn/)
 + [OpenLaw](http://openlaw.cn/)
