@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pyenv使用教程
+title: Pyenv(Python版本管理)使用教程
 date: 2017-7-08
 tags: [教程]
 ---
