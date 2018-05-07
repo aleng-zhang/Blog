@@ -20,6 +20,8 @@ tags: [备忘]
 + [Free Online Phone](https://www.freeonlinephone.org/#number)
 + [Speedtest](http://beta.speedtest.net/)
 + [天眼查](https://www.tianyancha.com/)
++ [Smallpdf](https://smallpdf.com/)
++ [在线工具](https://tool.lu/)
 
 ### 编程相关
 + [GitBook](https://www.gitbook.com/explore/)
@@ -39,7 +41,7 @@ tags: [备忘]
 ### CS:GO相关
 + [Csgola](https://www.csgola.com/)
 + [CS:GO News](https://www.hltv.org/)
-+ [Farmskins](http://farmskins.com/)
++ [Hellcase](https://hellcase.com)
 + [CS.MONEY](https://cs.money/zh)
 
 ### 视频网站
@@ -48,6 +50,7 @@ tags: [备忘]
 + [字幕组](http://www.zimuzu.tv/)
 + [迷你MP4](http://www.minimp4.com/)
 + [哔哩哔哩](https://www.bilibili.com/)
++ [91美剧网](https://91mjw.com/)
 
 ### 其他
 + [3DM 游戏运行库](http://dl.3dmgame.com/201707/110601.html)
