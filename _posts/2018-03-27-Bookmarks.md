@@ -37,13 +37,10 @@ tags: [备忘]
 + [Steam Key激活](https://store.steampowered.com/account/registerkey)
 + [Humble Bundle](https://www.humblebundle.com/)
 + [Steamgifts](https://www.steamgifts.com/)
-+ [GiveAway.su](https://giveaway.su/)
 
 ### CS:GO相关
 + [Csgola](https://www.csgola.com/)
 + [CS:GO News](https://www.hltv.org/)
-+ [Hellcase](https://hellcase.com)
-+ [CS.MONEY](https://cs.money/zh)
 
 ### 视频网站
 + [动漫花园](https://share.dmhy.org/)
