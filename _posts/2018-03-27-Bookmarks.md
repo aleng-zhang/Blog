@@ -40,7 +40,7 @@ tags: [备忘]
 
 ### CS:GO相关
 + [Csgola](https://www.csgola.com/)
-+ [CS:GO News](https://www.hltv.org/)
++ [HLTV](https://www.hltv.org/)
 
 ### 视频网站
 + [动漫花园](https://share.dmhy.org/)
