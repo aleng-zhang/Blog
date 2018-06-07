@@ -41,6 +41,7 @@ tags: [备忘]
 ### CS:GO相关
 + [Csgola](https://www.csgola.com/)
 + [HLTV](https://www.hltv.org/)
++ [Csgo Demos Manager](https://csgo-demos-manager.com/downloads)
 
 ### 视频网站
 + [动漫花园](https://share.dmhy.org/)
