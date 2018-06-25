@@ -49,7 +49,6 @@ tags: [备忘]
 + [字幕组](http://www.zimuzu.tv/)
 + [迷你MP4](http://www.minimp4.com/)
 + [哔哩哔哩](https://www.bilibili.com/)
-+ [91美剧网](https://91mjw.com/)
 
 ### 其他
 + [3DM 游戏运行库](http://dl.3dmgame.com/201707/110601.html)
