@@ -28,7 +28,7 @@ tags: [备忘]
 + [GitBook](https://www.gitbook.com/explore/)
 + [廖雪峰](http://www.liaoxuefeng.com/)
 + [PythonTab](http://www.pythontab.com/)  
-+ [w3school](http://www.w3cschool.cn/)
++ [w3school](http://www.w3school.com.cn/)
 + [Codewars](https://www.codewars.com/)
 + [Stack Overflow](https://stackoverflow.com/)
 
