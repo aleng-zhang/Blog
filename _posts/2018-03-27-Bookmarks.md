@@ -46,20 +46,16 @@ tags: [备忘]
 ### 视频网站
 + [动漫花园](https://share.dmhy.org/)
 + [嘀哩嘀哩](http://www.dilidili.wang/)
-+ [字幕组](http://www.zimuzu.tv/)
++ [字幕组](http://www.zimuzu.io/)
 + [迷你MP4](http://www.minimp4.com/)
 + [哔哩哔哩](https://www.bilibili.com/)
 
 ### 其他
-+ [3DM 游戏运行库](http://dl.3dmgame.com/201707/110601.html)
++ [3DM 游戏运行库](https://dl.3dmgame.com/patch/28051.html)
 + [驱动程序 GeForce](http://www.geforce.cn/drivers)
 + [Pixiv](https://www.pixiv.net/)
 + [豆瓣](https://www.douban.com/)
 + [Greasy Fork](https://greasyfork.org/zh-CN)
 + [MSDN](https://msdn.itellyou.cn/)
-+ [Zd423](http://www.zdfans.com/)
-+ [吾爱破解](https://www.52pojie.cn/)
 + [Genymotion](https://www.genymotion.com/fun-zone/)
-+ [Vultr](https://www.vultr.com/)
 + [iShadow](http://isx.yt)
-+ [Rarbg](https://rarbg.is/torrents.php?category=movies)
