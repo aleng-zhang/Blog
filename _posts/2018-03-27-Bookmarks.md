@@ -22,7 +22,7 @@ tags: [备忘]
 + [天眼查](https://www.tianyancha.com/)
 + [Smallpdf](https://smallpdf.com/)
 + [在线工具](https://tool.lu/)
-+ [磁力猫](http://www.cilimao.me/)
++ [磁力猫](http://www.cilimao.me/)([备用](http://www.cilimao.io/))
 
 ### 编程相关
 + [GitBook](https://www.gitbook.com/explore/)
