@@ -23,6 +23,8 @@ tags: [备忘]
 + [Smallpdf](https://smallpdf.com/)
 + [在线工具](https://tool.lu/)
 + [磁力猫](http://www.cilimao.me/)([备用](http://www.cilimao.io/))
++ [SauceNao](http://saucenao.com/)
++ [泼辣修图](http://www.polaxiong.com/editor)
 
 ### 编程相关
 + [GitBook](https://www.gitbook.com/explore/)
