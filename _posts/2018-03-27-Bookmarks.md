@@ -27,7 +27,6 @@ tags: [备忘]
 + [泼辣修图](http://www.polaxiong.com/editor)
 
 ### 编程相关
-+ [GitBook](https://www.gitbook.com/explore/)
 + [廖雪峰](http://www.liaoxuefeng.com/)
 + [PythonTab](http://www.pythontab.com/)  
 + [w3school](http://www.w3school.com.cn/)
