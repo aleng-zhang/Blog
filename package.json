@@ -5,8 +5,8 @@
     "homepage": "http://startbootstrap.com",
     "author": "Start Bootstrap",
     "license": {
-        "type": "Apache 2.0",
-        "url": "https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE"
+        "type": "Apache 2.0", 
+        "url": "https://github.com/aleng-zhang/aleng-zhang.github.io/blob/master/LICENSE"
     },
     "devDependencies": {
         "grunt": "~0.4.5",
