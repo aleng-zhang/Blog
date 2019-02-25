@@ -25,6 +25,8 @@ tags: [备忘]
 + [磁力猫](http://www.cilimao.me/)([备用](http://www.cilimao.io/))
 + [SauceNao](http://saucenao.com/)
 + [泼辣修图](http://www.polaxiong.com/editor)
++ [立创EDA](https://lceda.cn/)
++ [中信部投诉](http://www.chinatcc.gov.cn:8080/#)
 
 ### 编程相关
 + [廖雪峰](http://www.liaoxuefeng.com/)
@@ -37,7 +39,6 @@ tags: [备忘]
 + [SteamCN](https://steamcn.com/forum.php?e6_style=1)
 + [Steam Key激活](https://store.steampowered.com/account/registerkey)
 + [Humble Bundle](https://www.humblebundle.com/)
-+ [Steamgifts](https://www.steamgifts.com/)
 
 ### CS:GO相关
 + [Csgola](https://www.csgola.com/)
@@ -46,18 +47,14 @@ tags: [备忘]
 
 ### 视频网站
 + [动漫花园](https://share.dmhy.org/)
-+ [嘀哩嘀哩](http://www.dilidili.wang/)
 + [字幕组](http://www.zimuzu.io/)
 + [迷你MP4](http://www.minimp4.com/)
 + [哔哩哔哩](https://www.bilibili.com/)
 
 ### 其他
-+ [3DM 游戏运行库](https://dl.3dmgame.com/patch/28051.html)
-+ [驱动程序 GeForce](http://www.geforce.cn/drivers)
 + [Pixiv](https://www.pixiv.net/)
 + [豆瓣](https://www.douban.com/)
 + [Greasy Fork](https://greasyfork.org/zh-CN)
 + [MSDN](https://msdn.itellyou.cn/)
 + [Genymotion](https://www.genymotion.com/fun-zone/)
-+ [iShadow](http://isx.yt)
 + [小飞机](https://free.ssru.date)
