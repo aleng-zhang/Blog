@@ -20,6 +20,18 @@ tags: [备忘]
 >---
 >
 >[Word 中使用 UnicodeMath 和 LaTeX 的线性格式公式](https://support.office.com/zh-cn/article/word-%E4%B8%AD%E4%BD%BF%E7%94%A8-unicodemath-%E5%92%8C-latex-%E7%9A%84%E7%BA%BF%E6%80%A7%E6%A0%BC%E5%BC%8F%E5%85%AC%E5%BC%8F-2e00618d-b1fd-49d8-8cb4-8d17f25754f8?ui=zh-CN&rs=zh-CN&ad=CN)
+>
+>---
+>
+>取消键入时自动编号
+>
+>`选项` - `校队` - `自动更正选项` - `键入自动套用格式` - `键入时自动应用` - 取消勾选`自动编号列表`
+>
+>---
+>
+>键入空格后文字消失
+>
+>按下键盘`Insert`键
 
 ### Excel Tips
 
