@@ -36,3 +36,5 @@ tags: [备忘]
 ### Excel Tips
 
 >[Excel 中的公式概述](https://support.office.com/zh-cn/article/excel-%E4%B8%AD%E7%9A%84%E5%85%AC%E5%BC%8F%E6%A6%82%E8%BF%B0-ecfdc708-9162-49e8-b993-c311f47ca173)
+>
+>单元格内换行：`ALT+ENTER`
