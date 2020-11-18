@@ -42,6 +42,14 @@ tags: [备忘]
 + [Csgola](https://www.csgola.com/)
 + [HLTV](https://www.hltv.org/)
 + [Csgo Demos Manager](https://github.com/akiver/CSGO-Demos-Manager/releases)
++ [官方更新日志](http://blog.counter-strike.net/index.php/category/updates/#)
++ [RushB.Net中文更新日志](https://www.rushb.net/csgo-updates-log)
++ [液体百科](https://liquipedia.net/counterstrike/Main_Page)
++ [Total CS:GO](https://totalcsgo.com/commands)
+
+### 炉石传说
++ [HSReplay](https://hsreplay.net/)
++ [旅法师营地](https://www.iyingdi.com/web/article/hearthstone?seed=2&tagid=17)
 
 ### 视频网站
 + [动漫花园](https://share.dmhy.org/)
@@ -55,4 +63,4 @@ tags: [备忘]
 + [微PE](http://www.wepe.com.cn/download.html)
 + [Genymotion](https://www.genymotion.com/fun-zone/)
 + [小飞机](https://free.ssru.date)
-+ [黑果小兵的部落阁](https://blog.daliansky.net/)
++ [NGA论坛](http://bbs.nga.cn/)
