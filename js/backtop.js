@@ -14,8 +14,5 @@ $(document).ready(function() {
             $('body,html').animate({scrollTop:0},500);
             return false;
         });
-
-        //触发滚动事件，避免刷新的时候显示回到顶部按钮
-        $(window).trigger('scroll');
     });
 });
