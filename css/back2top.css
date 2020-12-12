@@ -1,13 +1,11 @@
 /*  Back Top Button  */
 #back2top {
+  width: 48px;
+  height: 48px;
   position: fixed;
   bottom: 100px;
   right: 80px;
-}
-#back2top a {
-  width: 48px;
-  height: 48px;
-  display: none;
+  display: block;
   background: url(/img/Back-Top_Arrow.png) no-repeat center center #fff;
   background-color: #fff;
   -webkit-border-radius: 7px;
@@ -17,7 +15,8 @@
   -moz-transition: 1s;
   transition: 1s;
 }
-#back2top a:hover {
+
+#back2top:hover {
   background-color: #FF9409 ;
 }
 /*  Back Top Button  End */
