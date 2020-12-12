@@ -1,10 +1,10 @@
 /*  Back Top Button  */
-#back-top {
+#back2top {
   position: fixed;
   bottom: 100px;
   right: 80px;
 }
-#back-top a {
+#back2top a {
   width: 48px;
   height: 48px;
   display: none;
@@ -17,7 +17,7 @@
   -moz-transition: 1s;
   transition: 1s;
 }
-#back-top a:hover {
+#back2top a:hover {
   background-color: #FF9409 ;
 }
 /*  Back Top Button  End */
