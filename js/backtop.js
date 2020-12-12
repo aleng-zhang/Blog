@@ -1,21 +1,18 @@
 $(document).ready(function() {
-    $("#back-to-top").hide();
-    // fade in #back-top
-    $(function() {
-        var pos = $(window).scrollTop();
-        console.log(pos);
-
-        if (pos >= 400) {
-            $('#back-top').fadeIn();
-        } else {
-            $('#back-top').fadeOut();
-        }
-
-        // scroll body to 0px on click
-        $('#back-top a').click(function() {
-            $('body,html').animate({
-                scrollTop: 0
-            }, 800);
+    //首先将#back-to-top隐藏
+    $("#back-top").hide();
+    //当滚动条的位置处于距顶部600像素以下时，跳转链接出现，否则消失
+    $(function () {
+        $(window).scroll(function(){
+            if ($(window).scrollTop()>600){
+                $("#back-top").fadeIn(500);
+            }else{
+                $("#back-top").fadeOut(500);
+            }
+        });
+       //当点击跳转链接后，回到页面顶部位置
+        $("#back-top").click(function(){
+            $('body,html').animate({scrollTop:0},500);
             return false;
         });
     });
