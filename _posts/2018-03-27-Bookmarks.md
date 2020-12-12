@@ -53,6 +53,7 @@ tags: [备忘]
 + [RushB.Net中文更新日志](https://www.rushb.net/csgo-updates-log)
 + [液体百科](https://liquipedia.net/counterstrike/Main_Page)
 + [Total CS:GO](https://totalcsgo.com/commands)
++ [Simple Radar](https://readtldr.gg/simpleradar-download)
 
 ### 炉石传说
 + [HSReplay](https://hsreplay.net/)
