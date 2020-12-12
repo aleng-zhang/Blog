@@ -1,5 +1,5 @@
 $(document).ready(function() {
-
+    $("#back-to-top").hide();
     // fade in #back-top
     $(function() {
         var pos = $(window).scrollTop();
